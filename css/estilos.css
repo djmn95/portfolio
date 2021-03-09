@@ -1,0 +1,101 @@
+#Inicio{
+    background-image: url("../images/fondo-contacto.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#sobre-mi{
+    background-image: url("../images/fondo-contacto.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#proyectos{
+    background-image: url("/images/fondo-contacto.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+#contacto{
+    background-image: url("../images/fondo-contacto.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navbar{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px;
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+.nav-item{
+    text-align: left;
+    padding: 0px 48px 0px 0px;
+}
+.nav-link{
+    color: rgb(59, 59, 59);
+}
+.nav-link:hover{
+    color:  rgb(59, 59, 59);
+}
+.btn.btn-rojo{
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    border: 0px;
+}
+.btn.btn-rojo:hover{
+    background-color: blueviolet;
+    color: white;
+}
+h1{
+    color: red;
+}
+
+.form-control{
+    border-radius: 15px;
+}
+
+textarea{
+        height: 150px !important;
+        resize: none;
+        border: 0px;
+        border-radius: 15px;
+}
+.enviarbtn{
+    background-color: white;
+    color: black;
+    width: 150px;
+    border-radius: 20px;
+    border: 0px;
+    padding: 8px;
+}
+.enviarbtn:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.fab{
+    font-size: 35px;
+
+}
+footer{
+    text-align: center;
+    display: block;
+    padding-top: 80px;
+}
+main{
+    padding-top: 30px;
+}
+footer .fa-whatsapp {
+    color: white;
+    background-color: #370A6D;
+    font-size: 30px;
+    padding: 10px 19px;
+    border-radius: 10px 10px 0 0;
+    height: 65px;
+    width: 65px;
+}
