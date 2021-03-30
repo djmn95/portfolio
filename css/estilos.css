@@ -9,6 +9,22 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.color-gradiente{background-color: brown;
+}
+h3{
+    font-size: 14px;
+}
+.btn.btn-rojo.sobre-mi{
+    margin: 21px 22px 17px 19px;
+}
+.card-idioma{
+    height: 228px;
+}
+#idiomas .fas{
+    font-size: 80px;
+    color: white;
+    background-color: rgb(55, 17, 228);
+}
 #proyectos{
     background-image: url("/images/fondo-contacto.png");
     background-repeat: no-repeat;
