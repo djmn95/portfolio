@@ -3,6 +3,9 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.cohete {
+    height: 264px, 200px;
+}
 
 #sobre-mi{
     background-image: url("../images/fondo-contacto.png");
