@@ -3,8 +3,14 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.cohete {
-    height: 264px, 200px;
+.div-cohete{
+    height: 410px;
+}
+.cohete{
+    height: 400px;
+}
+.cohete:hover{
+    height: 410px;
 }
 
 #sobre-mi{
