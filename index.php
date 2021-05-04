@@ -20,5 +20,27 @@
         ?>
 
     </header>
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mt-4 text-center div-cohete">
+                    <a href="proyectos.php"><img src="images/cohete.svg" class="cohete"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
+                    <div class="input-home">
+                        <p class="p-1">Bienvenid@ a mi sitio web sobre aprendizaje en sistemas.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 text-center">
+                    <a href="proyectos.php" class="btn shadow">Conoce mis proyectos</a>
+                </div>
+            </div>
+
+        </div>
+    </main>
 </body>
 </html>

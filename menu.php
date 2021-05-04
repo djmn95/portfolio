@@ -20,6 +20,9 @@
                             <a class="nav-link <?php echo $pg == "contacto"? "active" : ""; ?>" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
+                    <div class="form-inline my-2 my-lg-0">
+                    <a href="" class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
+                </div>
                 </div>
             </div>
         </nav>
