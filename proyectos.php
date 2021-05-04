@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-sm-4 col-12">
                     <div class="row car m-1">
-                        <img src="" alt="">
+                        <img src="/images/abmclientes.png" alt="">
                         <div class="col 12 color-gradiente py-3"></div>
                         <h2>Proyecto 1</h2>
                     </div>
